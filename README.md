@@ -48,16 +48,13 @@ The data preprocessing and model steps used in this project:
 ![Loss Plot](images/loss_plot.png)
 
 #### Accuracy
-![Accuracy Plot](accuracy_plot.png)
+![Accuracy Plot](images/accuracy_plot.png)
 
 ### Sample Predictions
 Below are sample images from the test dataset along with the model predictions:  
 
-![Sample 0](sample_0.png)
-![Sample 1](sample_1.png)
-![Sample 2](sample_2.png)
-![Sample 3](sample_3.png)
-![Sample 4](sample_4.png)
+![Samples](images/samples.png)
+
 
 ---
 
