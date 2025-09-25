@@ -73,5 +73,6 @@ Future improvements could include:
 - Making the model lightweight for mobile deployment  
 - Using Transfer Learning to optimize model performance and training time  e  
  
-[Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
-[Kaggle](https://www.kaggle.com/code/gayeylmaz/signlanguage-mnist)
+-[Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
+
+-[Kaggle](https://www.kaggle.com/code/gayeylmaz/signlanguage-mnist)
