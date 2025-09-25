@@ -45,7 +45,7 @@ The data preprocessing and model steps used in this project:
 #### Training and Accuracy Graphs
 
 #### Loss
-![Loss Plot](loss_plot.png)
+![Loss Plot](images/loss_plot.png)
 
 #### Accuracy
 ![Accuracy Plot](accuracy_plot.png)
